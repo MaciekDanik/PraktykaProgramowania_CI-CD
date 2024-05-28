@@ -18,6 +18,7 @@ divide(a: int, b: int) -> float
     Returns the division of a by b. Raises ZeroDivisionError if b is zero.
 """
 
+
 def add(a: int, b: int) -> int:
     """
     Return the sum of a and b.
